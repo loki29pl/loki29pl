@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ```text
 TypeScript   6 hrs           █████████████████░░░░░░░░   68.16 % 
 HTML         2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-SCSS         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+SCSS         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
