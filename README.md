@@ -15,12 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   13 hrs 40 mins  ████████████████▒░░░░░░░░   65.51 % 
-HTML         3 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.80 % 
-SCSS         2 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Bash         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-<!--END_SECTION:waka-->
